@@ -4,8 +4,6 @@
 Android application that has buttons to change text, text color, and background color. Additionally, it allows for unique user inputs for the text field and can restore it's defaults from users clicking the background.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="./app.gif" width=200><br>
 
 ### Required User Stories
